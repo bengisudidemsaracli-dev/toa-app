@@ -1,0 +1,42 @@
+﻿anonymous_column,original_column
+var01,YAŞ
+var02,VKİ
+var03,GEÇ. BATIN OP.
+var04,EK HAST.
+var05,DM
+var06,RİA
+var07,SERVİKAL HASSASİYET
+var08,AKUT BATIN
+var09,YATIŞ SÜRESİ
+var10,YBÜ
+var11,WBC İLK
+var12,WBC KONTROL
+var13,delta wbc
+var14,NLR İLK
+var15,NLR KONTROL
+var16,delta nlr
+var17,CRP İLK
+var18,CRP KONTROL
+var19,delta crp
+var20,APSE BOY İLK UZUN
+var21,APSE BOY KONTROL UZUN
+var22,delta apse
+var23,AB DEĞİŞİMİ
+var24,İLK AB.
+var25,DEĞİŞ. AB.
+var26,DRENAJ?
+var27,ENDOMETRİOMA VARLIĞI
+var28,OP. GEREKSİNİMİ
+var29,OP GÜNÜ
+var30,LT/LS
+var31,LT-LS 2 Lİ
+var32,GİRİŞ ŞEKLİ
+var33,ADEZYON
+var34,adezyon gruplu
+var35,orta-şiddetli
+var36,hafif
+var37,frozen pelvis
+var38,DREN
+var39,EK BRANŞ
+var40,ÜROLOJİ
+var41,GENEL CERRAHİ
